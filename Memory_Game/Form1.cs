@@ -41,9 +41,6 @@ namespace Memory_Game
                 image.Cursor = Cursors.Hand;
                 points.Add(image.Location);
                 image.Image = Properties.Resources.imagemain;
-            }
-            foreach (PictureBox image in kaardhouder.Controls)
-            {
                 image.Enabled = true;
             }
             foreach (PictureBox image in kaardhouder.Controls)
