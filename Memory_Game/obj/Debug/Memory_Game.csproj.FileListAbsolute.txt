@@ -1,0 +1,10 @@
+C:\Users\marco\Source\Repos\Memory_game\Memory_game\bin\Debug\Memory_Game.exe.config
+C:\Users\marco\Source\Repos\Memory_game\Memory_game\bin\Debug\Memory_Game.exe
+C:\Users\marco\Source\Repos\Memory_game\Memory_game\bin\Debug\Memory_Game.pdb
+C:\Users\marco\Source\Repos\Memory_game\Memory_game\obj\Debug\Memory_Game.Form1.resources
+C:\Users\marco\Source\Repos\Memory_game\Memory_game\obj\Debug\Memory_Game.Properties.Resources.resources
+C:\Users\marco\Source\Repos\Memory_game\Memory_game\obj\Debug\Memory_Game.csproj.GenerateResource.Cache
+C:\Users\marco\Source\Repos\Memory_game\Memory_game\obj\Debug\Memory_Game.csproj.CoreCompileInputs.cache
+C:\Users\marco\Source\Repos\Memory_game\Memory_game\obj\Debug\Memory_Game.exe
+C:\Users\marco\Source\Repos\Memory_game\Memory_game\obj\Debug\Memory_Game.pdb
+C:\Users\marco\Source\Repos\Memory_game\Memory_game\obj\Debug\Memory_game.csprojResolveAssemblyReference.cache
